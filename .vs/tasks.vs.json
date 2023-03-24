@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Homework1",
+      "appliesTo": "Homework1.sln",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Homework1",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}

@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/XlKOyi3r)
 FordIntern-v1
 Asagida verilen modeli kullanarak GetAll, GetById , Put , Post , Delete methodlarini icen
 bir controller implement ediniz.
@@ -14,7 +13,7 @@ methodlari gondermeyiniz.
                                    {
                                    public int Id { get; set; }
                                    public string CreatedBy { get; set; }
-                                   public DateTime CreatedAt { get; set; }
+                                   public c CreatedAt { get; set; }
                                    public string FirstName { get; set; }
                                    public string LastName { get; set; }
                                    public string Email { get; set; }
